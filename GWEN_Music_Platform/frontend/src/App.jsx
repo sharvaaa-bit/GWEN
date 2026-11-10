@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import "./style.css";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API='https://gwen-qt1x.onrender.com';
 
 const demo = [
   { id: "demo1", title: "Midnight Bloom", artist: "AERIS", album: "Afterglow" },
